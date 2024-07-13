@@ -10,7 +10,7 @@ function CityList({ cities, isLoading }) {
       <Message message="Add your first city by clicking on a city on the map" />
     );
   return (
-    <ul className={styles.CityList}>
+    <ul className={styles.cityList}>
       {cities.map((city) => (
         <CityItem city={city} key={city.id} />
       ))}
