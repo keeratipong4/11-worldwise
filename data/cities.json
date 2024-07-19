@@ -35,6 +35,138 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Montboudif",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-19T10:12:21.500Z",
+      "notes": "",
+      "position": {
+        "lat": "45.38054378859162",
+        "lng": "2.7648387835069737"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gelnhausen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-07-19T10:15:25.177Z",
+      "notes": "terst",
+      "position": {
+        "lat": "50.21867794537893",
+        "lng": "9.197387939833478"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Amli",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-07-19T10:17:05.286Z",
+      "notes": "",
+      "position": {
+        "lat": "58.83638167438043",
+        "lng": "8.564001141532659"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Arjeplog",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-07-19T10:17:52.300Z",
+      "notes": "",
+      "position": {
+        "lat": "66.0357649043274",
+        "lng": "18.046621024197346"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Hassi Gara",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-07-19T10:19:31.141Z",
+      "notes": "",
+      "position": {
+        "lat": "29.305755137817524",
+        "lng": "3.2432543722526845"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Toesse",
+      "country": "Burkina Faso",
+      "emoji": "🇧🇫",
+      "date": "2024-07-19T10:20:08.165Z",
+      "notes": "",
+      "position": {
+        "lat": "11.82514964661157",
+        "lng": "-1.2350171664603307"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2024-07-19T10:20:57.619Z",
+      "notes": "",
+      "position": {
+        "lat": "75.6719873996935",
+        "lng": "-36.9235381774427"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Jinzhong",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2024-07-19T10:22:10.787Z",
+      "notes": "",
+      "position": {
+        "lat": "37.99624065524624",
+        "lng": "112.81797118434233"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Wichian Buri",
+      "country": "Thailand",
+      "emoji": "🇹🇭",
+      "date": "2024-07-19T10:22:10.787Z",
+      "notes": "",
+      "position": {
+        "lat": "15.623455536439609",
+        "lng": "100.86624419235478"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Chilla Well",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-07-19T10:24:21.317Z",
+      "notes": "",
+      "position": {
+        "lat": "-21.6159744429635",
+        "lng": "132.11266744797464"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Tura",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-07-19T10:27:52.476Z",
+      "notes": "",
+      "position": {
+        "lat": "63.232213571127126",
+        "lng": "95.9489127183953"
+      },
+      "id": 98443208
     }
   ]
 }
