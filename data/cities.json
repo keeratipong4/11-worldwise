@@ -49,18 +49,6 @@
       "id": 98443198
     },
     {
-      "cityName": "Gelnhausen",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2024-07-19T10:15:25.177Z",
-      "notes": "terst",
-      "position": {
-        "lat": "50.21867794537893",
-        "lng": "9.197387939833478"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Amli",
       "country": "Norway",
       "emoji": "🇳🇴",
@@ -121,18 +109,6 @@
       "id": 98443204
     },
     {
-      "cityName": "Jinzhong",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2024-07-19T10:22:10.787Z",
-      "notes": "",
-      "position": {
-        "lat": "37.99624065524624",
-        "lng": "112.81797118434233"
-      },
-      "id": 98443205
-    },
-    {
       "cityName": "Wichian Buri",
       "country": "Thailand",
       "emoji": "🇹🇭",
@@ -157,14 +133,14 @@
       "id": 98443207
     },
     {
-      "cityName": "Tura",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2024-07-19T10:27:52.476Z",
+      "cityName": "Al",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-07-20T10:27:01.664Z",
       "notes": "",
       "position": {
-        "lat": "63.232213571127126",
-        "lng": "95.9489127183953"
+        "lat": "60.813285214238924",
+        "lng": "8.176177748451884"
       },
       "id": 98443208
     }
