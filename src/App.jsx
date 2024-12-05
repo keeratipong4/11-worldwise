@@ -15,7 +15,7 @@ import ProtectedRoute from "./pages/ProtectedRoute";
 // dist/assets/index-5cc81f6a.css   29.98 kB │ gzip:   5.08 kB
 // dist/assets/index-cc03e615.js   509.37 kB │ gzip: 148.31 kB
 
-import CityList from "./components/CItyList";
+import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
 import City from "./components/City";
 import Form from "./components/Form";
