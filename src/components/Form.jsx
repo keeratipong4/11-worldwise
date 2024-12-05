@@ -35,7 +35,7 @@ function Form() {
   const [notes, setNotes] = useState("");
 
   useEffect(() => {
-    if (!lat && !lng) return;
+    if (!lat && !lng) return; //in case a user type the url at http://localhost:5173/app/form/ without lat and lng value
     async function fetchCityData() {
       try {
         setIsLoadingGeocoding(true);

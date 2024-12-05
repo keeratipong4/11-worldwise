@@ -18,7 +18,7 @@ function City() {
   const { currentCity, getCity, isLoading } = useCities();
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
 
   // const [searchParams, setSearchParams] = useSearchParams();
   // const lat = searchParams.get("lat");
